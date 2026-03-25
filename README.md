@@ -6,7 +6,7 @@ Este projeto demonstra o ciclo completo de um analista de dados: desde o tratame
 Analisar a performance de vendas de uma operação global de e-commerce, identificando padrões de consumo por categoria, género e localização geográfica, além de monitorizar métricas críticas de rentabilidade.
 
 📂 Estrutura do Repositório
-/notebooks: Contém o ficheiro .ipynb com toda a limpeza, tratamento de dados (ETL) e análise exploratória (EDA).
+/notebook: Contém o ficheiro .ipynb com toda a limpeza, tratamento de dados (ETL) e análise exploratória (EDA).
 
 /data: Base de dados utilizada (em formato CSV/Excel).
 
@@ -54,5 +54,3 @@ Ticket Médio: R$ 74,41.
 
 Principais Categorias: Beauty, Industrial e Music.
 
-📸 Pré-visualização do Projeto
-(Dica: Substitui o link abaixo pelo caminho da imagem que subires na pasta /images)
